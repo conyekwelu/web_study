@@ -48,8 +48,24 @@ put each list item in an <li> tag, enclose all in <ol> or <ul>
 visit http://www.w3schools.com/tags/ref_entities.asp for entities
 
 
-
 HTML - structure
 CSS - presentation
 
 Answers to Questions
+
+Uniform Resource Locator -> specifies protocol and global address (absolute path)
+http -> simple request and response protocol
+default port is 80 unless o.w. specified
+homepage -> index.html or default.htm (MS webserver)
+
+
+Better linking
+- concise labels
+- meaningful labels
+- not next to each other
+
+Creating anchor to section
+- create anchor destination (e.g. anchor tab with id="chai")
+- create anchor link to destination (href="index.html#chai")
+- open anchor destination in new page (target="_blank")
+# note users prefer to control when a new page opens
