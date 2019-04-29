@@ -10,12 +10,9 @@ exceptions include <img>
 to add style, add a style element to the head section under title
 
 elements have attributes used to customize them e.g.
-
-style has attribute "type"
-
-a has href attribute which allows you specify link destination
-
-img has src attribute which specifies picture file name (and location)
+- style has attribute type="text/css"
+- a has href attribute which allows you specify link destination
+- img has src attribute which specifies picture file name (and location)
 
 attributes come in name="value" pairs
 
@@ -28,6 +25,27 @@ File Organization (optimize simple and flexible/scalable)
 - Category Folders -> contains html for other categories
 [use ../ to go up use folder/file.html to go down]
 
+Page Design
+- sketch
+- outline and structure [blocks then inline]
+- write HTML
+
+use q or blockquote to emphasize quotations (can nest <p> within blockquote)
+q is an inline element while blockquote is a block element [line break pre & post]
+use <code> to display code in browser
+<address> -> tells browser the content is an address
+<strong> -> bold emphasis, extra strength
+<pre> -> show text exactly as typed
+<em> -> emphasize text with italics
+<hr> -> horizontal line between sections
+
+
+empty elements:
+- <br> = line breaks
+- <img> = image
+
+put each list item in an <li> tag, enclose all in <ol> or <ul>
+visit http://www.w3schools.com/tags/ref_entities.asp for entities
 
 
 
