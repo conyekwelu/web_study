@@ -26,6 +26,7 @@ File Organization (optimize simple and flexible/scalable)
 - Root Folder -> contains homepage.html
 - Images Folder -> contains images
 - Category Folders -> contains html for other categories
+[use ../ to go up use folder/file.html to go down]
 
 
 
