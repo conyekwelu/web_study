@@ -1,0 +1,23 @@
+Atom makes creating a bare bones html doc easy - just type html and hit enter
+(automatically creates html, head, title and body tags)
+
+<!-- Can also use shortcut ctrl /  -->
+
+<> content </> = element
+(a tag and the content it encircles is called an element e.g. h1 element)
+exceptions include <img>
+
+to add style, add a style element to the head section under title
+
+elements have attributes e.g. style has attribute "type"
+
+Information about the Web page goes into the <head> element.
+What you put into the <body> element is what you see in the browser.
+
+
+
+
+HTML - structure
+CSS - presentation
+
+Answers to Questions
