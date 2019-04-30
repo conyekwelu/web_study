@@ -110,3 +110,5 @@ background-color -> background color of element
 text-align -> to align text
 font-style -> italicize
 border -> border around element
+
+stopped at pg 369
