@@ -74,6 +74,21 @@ IMAGES
 JPG vs GIF [lossy-16M vs lossless-256]
 GIFs are better for logos cos transparency
 J G J G J
-<img> -> inline element
+<img> -> inline element, but nested in a block element
 width & height attributes in pixels [browser is 800px (72px per inch)]
 Logos are generally between 100 - 200px
+
+STANDARDS
+-Document type (html4)
+<!DOCTYPE HTML PUBLIC “-//W3C//DTD HTML 4.01 Transitional//EN” “http://www.w3.org/TR/html4/loose.dtd”>
+<!DOCTYPE HTML PUBLIC “-//W3C//DTD HTML 4.01//EN” “http://www.w3.org/TR/html4/strict.dtd”>
+- Document type (XHTML)
+<!DOCTYPE html PUBLIC “-//W3C//DTD XHTML 1.0 Strict//EN” “http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd”>
+<html xmlns=”http://www.w3.org/1999/xhtml” lang=”en” xml:lang=”en”>
+
+- validator -> http://validator.w3.org
+- meta tags (specify encoding)
+<meta http-equiv=”Content-Type” content=”text/html; charset=ISO-8859-1”>
+
+CSS
+- section {property: style/value;}
