@@ -69,3 +69,11 @@ Creating anchor to section
 - create anchor link to destination (href="index.html#chai")
 - open anchor destination in new page (target="_blank")
 # note users prefer to control when a new page opens
+
+IMAGES
+JPG vs GIF [lossy-16M vs lossless-256]
+GIFs are better for logos cos transparency
+J G J G J
+<img> -> inline element
+width & height attributes in pixels [browser is 800px (72px per inch)]
+Logos are generally between 100 - 200px
