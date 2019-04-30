@@ -91,4 +91,22 @@ STANDARDS
 <meta http-equiv=”Content-Type” content=”text/html; charset=ISO-8859-1”>
 
 CSS
-- section {property: style/value;}
+- selector/section {property: style/value;}
+- group together common styles between elements (separate them with commas)
+- <link> -> connect external stylesheet to html file
+- use attribute class to add an attribute to element
+- .class is the selector for all elements in a class
+- most specific rule is used (used for overrides)
+- order of styling ->selected? > inherited? > default (conflict? select last)
+- CSS validator -> http://jigsaw.w3.org/css-validator/
+- O'reilly CSS Pocket Reference
+
+common css:
+color -> font color
+font-weight -> bold
+left -> left align
+line-height -> line spacing
+background-color -> background color of element
+text-align -> to align text
+font-style -> italicize
+border -> border around element
