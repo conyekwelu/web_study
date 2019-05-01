@@ -111,4 +111,15 @@ text-align -> to align text
 font-style -> italicize
 border -> border around element
 
-stopped at pg 369
+Choosing Fonts
+- specific font, then font family
+Choosing Font Sizes
+- Absolute vs relative to parent vs browser defined (pixels vs % and em vs small, large etc)
+- Choose a keyword [small or medium] for body selector
+- Specify other elements relative to body font size
+- use <del> to highlight strikethroughs in text
+Colors
+- based on RGB - 100:100:100 = white, 0:0:0 = black
+- CSS defines names of only 17 colors
+- can specify as rgb(80%, 40%, 0%) or rgb(204, 102, 0)
+- can specify with hex codes by prefix with # and convert to hexadecimal

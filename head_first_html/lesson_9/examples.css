@@ -1,0 +1,9 @@
+body {
+  font-family: Verdana, Geneva, Arial, sans-serif;
+  font-size: 14px;
+  color: silver;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+/* text decor can include overlines and line throughs */
