@@ -94,10 +94,14 @@ CSS
 - selector/section {property: style/value;}
 - group together common styles between elements (separate them with commas)
 - <link> -> connect external stylesheet to html file
-- use attribute class to add an attribute to element
+- if more than one stylesheet, order of linking matters [subsequent can override previous]
+- media attribute tailors to user source
+- use attribute class to add an attribute to element [and create a group]
+- use attribute id if just one section [no intent to reuse - e.g. header, footer]
 - .class is the selector for all elements in a class
 - most specific rule is used (used for overrides)
 - order of styling ->selected? > inherited? > default (conflict? select last)
+- can have more than one stylesheet
 - CSS validator -> http://jigsaw.w3.org/css-validator/
 - O'reilly CSS Pocket Reference
 
@@ -123,3 +127,8 @@ Colors
 - CSS defines names of only 17 colors
 - can specify as rgb(80%, 40%, 0%) or rgb(204, 102, 0)
 - can specify with hex codes by prefix with # and convert to hexadecimal
+
+Box Model
+- Content Area (width) > Padding (width on 4 sides) > Border (width, color, style) > Margin (width on 4 sides)
+
+Stopped at Page 456
