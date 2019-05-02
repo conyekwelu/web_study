@@ -104,6 +104,8 @@ CSS
 - can have more than one stylesheet
 - <div> s can nest other block elements [divide page into logical sections/groupings]
 - generally, use id attribute on divs
+- descendant selectors -> #elixirs h2 { property: value; }
+- child selectors -> #elixirs > h2 { property: value; }
 - default widths are auto expand
 - CSS validator -> http://jigsaw.w3.org/css-validator/
 - O'reilly CSS Pocket Reference
@@ -125,6 +127,8 @@ Choosing Font Sizes
 - Choose a keyword [small or medium] for body selector
 - Specify other elements relative to body font size
 - use <del> to highlight strikethroughs in text
+-<shorthand> font: font-style font-variant font-weight font-size/line-height font-family
+
 Colors
 - based on RGB - 100:100:100 = white, 0:0:0 = black
 - CSS defines names of only 17 colors
