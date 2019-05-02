@@ -1,3 +1,5 @@
+Stopped at Page 505
+
 Atom makes creating a bare bones html doc easy - just type html and hit enter
 (automatically creates html, head, title and body tags)
 
@@ -68,12 +70,13 @@ Creating anchor to section
 - create anchor destination (e.g. anchor tab with id="chai")
 - create anchor link to destination (href="index.html#chai")
 - open anchor destination in new page (target="_blank")
+- links have states [unvisited, visited, hover]
+- useful for styling links with pseudo-classes [a:link/visited/focus/hover/active { property: value; }]
 # note users prefer to control when a new page opens
 
 IMAGES
 JPG vs GIF [lossy-16M vs lossless-256]
 GIFs are better for logos cos transparency
-J G J G J
 <img> -> inline element, but nested in a block element
 width & height attributes in pixels [browser is 800px (72px per inch)]
 Logos are generally between 100 - 200px
@@ -85,7 +88,6 @@ STANDARDS
 - Document type (XHTML)
 <!DOCTYPE html PUBLIC “-//W3C//DTD XHTML 1.0 Strict//EN” “http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd”>
 <html xmlns=”http://www.w3.org/1999/xhtml” lang=”en” xml:lang=”en”>
-
 - validator -> http://validator.w3.org
 - meta tags (specify encoding)
 <meta http-equiv=”Content-Type” content=”text/html; charset=ISO-8859-1”>
@@ -103,12 +105,16 @@ CSS
 - order of styling ->selected? > inherited? > default (conflict? select last)
 - can have more than one stylesheet
 - <div> s can nest other block elements [divide page into logical sections/groupings]
+- <span> s can group inline elements [properties include width margin padding]
 - generally, use id attribute on divs
-- descendant selectors -> #elixirs h2 { property: value; }
+- descendant selectors -> #elixirs h2 { property: value; } #no commas
 - child selectors -> #elixirs > h2 { property: value; }
 - default widths are auto expand
+- pseudo classes include [:first-child]
 - CSS validator -> http://jigsaw.w3.org/css-validator/
 - O'reilly CSS Pocket Reference
+- author > reader > browser > specificity
+- calculate the specificity number viz [id-class-element] e.g. h1.greentea = [011] ol li p = [003]
 
 common css:
 color -> font color
@@ -137,5 +143,3 @@ Colors
 
 Box Model
 - Content Area (width) > Padding (width on 4 sides) > Border (width, color, style) > Margin (width on 4 sides)
-
-Stopped at Page 478
