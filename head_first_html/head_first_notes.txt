@@ -102,6 +102,9 @@ CSS
 - most specific rule is used (used for overrides)
 - order of styling ->selected? > inherited? > default (conflict? select last)
 - can have more than one stylesheet
+- <div> s can nest other block elements [divide page into logical sections/groupings]
+- generally, use id attribute on divs
+- default widths are auto expand
 - CSS validator -> http://jigsaw.w3.org/css-validator/
 - O'reilly CSS Pocket Reference
 
@@ -131,4 +134,4 @@ Colors
 Box Model
 - Content Area (width) > Padding (width on 4 sides) > Border (width, color, style) > Margin (width on 4 sides)
 
-Stopped at Page 456
+Stopped at Page 478
