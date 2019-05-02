@@ -113,7 +113,8 @@ CSS
 - pseudo classes include [:first-child]
 - CSS validator -> http://jigsaw.w3.org/css-validator/
 - O'reilly CSS Pocket Reference
-- author > reader > browser > specificity
+- author > reader > browser > specificity within group >  order within group
+(consider inheritance if not explicitly defined > consider browser defaults)
 - calculate the specificity number viz [id-class-element] e.g. h1.greentea = [011] ol li p = [003]
 
 common css:

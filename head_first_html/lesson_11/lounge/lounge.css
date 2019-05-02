@@ -61,6 +61,8 @@ h2 {
   /* can also use shorthand for background properties */
 
   line-height: 1;
+
+  float: right;
 }
 
 #elixirs h2 {
