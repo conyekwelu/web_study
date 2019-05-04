@@ -124,6 +124,8 @@ CSS
 - Righty tightey, leftey loosey
 - sidebars are often (best) used for navigation
 - jello layout - lock content area width, center in browser
+- absolute layout - fix certain elements
+- z-index number determines how to stack absolute positioned elements [higher is placed above]
 
 
 common css:
