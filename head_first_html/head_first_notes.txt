@@ -116,6 +116,15 @@ CSS
 - author > reader > browser > specificity within group >  order within group
 (consider inheritance if not explicitly defined > consider browser defaults)
 - calculate the specificity number viz [id-class-element] e.g. h1.greentea = [011] ol li p = [003]
+- use float: property to send an item right or left on a page } must specify object width
+- flow refers to rendering of html by a browser:
+    block elements are rendered in top to bottom order (vertical) } margins collapse
+    inline elements are rendered left to right order (horizontal) } margins sum
+- use clear: to prevent objects from being overlapped by float objects
+- Righty tightey, leftey loosey
+- sidebars are often (best) used for navigation
+- jello layout - lock content area width, center in browser
+
 
 common css:
 color -> font color
