@@ -159,3 +159,8 @@ Colors
 
 Box Model
 - Content Area (width) > Padding (width on 4 sides) > Border (width, color, style) > Margin (width on 4 sides)
+
+Tables
+- define using <table> then each row is <tr> and each cell is <td> or <th>
+- can make the first column your headings
+- <caption> to add a caption to a table
