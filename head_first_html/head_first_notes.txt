@@ -1,4 +1,4 @@
-Stopped at Page 515
+Stopped at Page 557
 
 Atom makes creating a bare bones html doc easy - just type html and hit enter
 (automatically creates html, head, title and body tags)
@@ -124,8 +124,12 @@ CSS
 - Righty tightey, leftey loosey
 - sidebars are often (best) used for navigation
 - jello layout - lock content area width, center in browser
-- absolute layout - fix certain elements
+- absolute layout - fix certain elements, relative to closest ancestor element positioned
 - z-index number determines how to stack absolute positioned elements [higher is placed above]
+- fixed positioning: offset from browser window -> doesnt move when you scroll [position: fixed;]
+    then specify the positioning parameters
+- relative positioning -> offset from normal position in flow
+
 
 
 common css:
