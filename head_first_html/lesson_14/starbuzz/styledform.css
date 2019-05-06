@@ -1,32 +1,32 @@
 body {
 	background: #efe5d0 url(images/background.gif) top left;
+	font-family: Verdana, Helvetica, Arial, sans-serif;
 	margin: 20px;
 }
 
-form {
-	display: table;
-	padding: 10px;
+table {
 	border: thin dotted #7e7e7e;
-	background-color: #e1ceb8;
+	padding: 10px;
 }
 
-form textarea {
-	width: 500px;
-	height: 200px;
-}
-
-div.tableRow {
-	display: table-row;
-}
-
-div.tableRow p {
-	display: table-cell;
-	vertical-align: top;
-	padding: 3px;
-}
-div.tableRow p:first-child {
+th {
 	text-align: right;
+	vertical-align: top;
+	padding-right: 10px;
+	padding-top: 2px;
 }
-p.heading {
-	font-weight: bold;
+
+td {
+	vertical-align: top;
+	padding-bottom: 15px;
+}
+
+table table {
+	border: none;
+	padding: 0px;
+}
+
+table table td {
+	text-align: right;
+	padding-bottom: 0px;
 }

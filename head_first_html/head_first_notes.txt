@@ -91,6 +91,7 @@ STANDARDS
 - validator -> http://validator.w3.org
 - meta tags (specify encoding)
 <meta http-equiv=”Content-Type” content=”text/html; charset=ISO-8859-1”>
+                content="keyword phrase 1, keyword phrase 2, etc" - SEO
 
 CSS
 - selector/section {property: style/value;}
@@ -111,6 +112,7 @@ CSS
 - child selectors -> #elixirs > h2 { property: value; }
 - default widths are auto expand
 - pseudo classes include [:first-child]
+- pseudo selectors include [p:first-letter], [p:first-line]
 - CSS validator -> http://jigsaw.w3.org/css-validator/
 - O'reilly CSS Pocket Reference
 - author > reader > browser > specificity within group >  order within group
@@ -164,3 +166,21 @@ Tables
 - define using <table> then each row is <tr> and each cell is <td> or <th>
 - can make the first column your headings
 - <caption> to add a caption to a table
+
+Forms
+- use <form> element
+- you can put other block elements into a form
+- [<form #webserver directory #webapp method="POST"]
+- use names that your webapp is expecting
+- input types include:
+            text - e.g. full name
+            submit - submit button
+            radio - all associated with set of choice must have same name [specify name and value]
+            checkbox - multi choice [specify name and value]
+            textarea - for long form entries and comments [specify rows and cols]
+            select - for dropdown menus [<select> <option> </select>] can add attribute "multiple"
+            password
+            file -> must use POST instead of GETS
+- use <fieldset> <legend> <input> for large form sections
+- use labels to improve accessibility SEO <label for="id">LABEL</label>
+    note item you intend to label must have an id attribute
