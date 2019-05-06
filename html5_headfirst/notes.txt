@@ -1,0 +1,3 @@
+document.write(string_var)
+
+DOM - Document Object Model [Tree hierarchy]
