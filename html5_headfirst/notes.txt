@@ -1,3 +1,32 @@
+Stopped at Pg 121
+
 document.write(string_var)
 
 DOM - Document Object Model [Tree hierarchy]
+
+Declaring a variable:
+    var var_name = object/expression;
+
+alert("Life without Ice-cream") == puts "Life without Ice-cream"
+
+for loops in js
+for (initialize local var e.g. i=10 ,condition e.g. i > 0 , update counter e.g. i--) { do this };
+
+var my_array = new Array();
+my_array.length;
+
+document.getElementById("planet") ->  a js method called on a html document
+                                      to retrieve element with id "planet"
+
+updating elements:
+#retrieve element to update
+var planet = document.getElementById("planet");
+
+#update text in retrieved element using innerHTML
+planet.innerHTML = "Red Alert: hit by phaser fire!";
+
+#ensure update happens after DOM is rendered
+function init(){ insert retrieval and update code here }; #creates a function init()
+window.onload = init;
+
+Can use JS to CRUD on DOM
