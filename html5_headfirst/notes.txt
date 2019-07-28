@@ -15,7 +15,7 @@ Declaring a variable:
 
 alert("Life without Ice-cream"); == puts "Life without Ice-cream"
 
-for loops in js
+forloops in js
 for (initialize local var e.g. i=10 ,condition e.g. i > 0 , update counter e.g. i--) { do this };
 
 Creating an array in JS
@@ -35,5 +35,25 @@ updating elements:
   window.onload = init;
 
 Can use JS to CRUD on DOM
+add item to ends of array: array.push("new item")
 
-Chapter 3 Notes
+Chapter 4 Notes
+
+Note: you create a function with parameters and call it with arguments
+shadowing: when you name a local variable same as an existing global
+Note: minimize use of global variables to prevent clashes with other libraries
+Note: two functions named the same in different files? browser uses last seen
+Note: you can assign a function to a variable
+
+Observation: objects in JS look like hashes in Ruby, dicts in python
+Pictorially:
+Object -> Properties -> Methods
+
+window[properties[location, status, onload, document],
+      methods[alert, prompt, open, close, open, setTimeout, setInterval]]
+
+document[properties[domain, title, URL]
+        methods[getElementById, getElementByTagName, getElementByClassName, createElement]]
+
+p[properties[innerHTML. childElementCount, firstChild]
+  methods[appendChild, insertBefore, setAttribute, getAttribute]]    
