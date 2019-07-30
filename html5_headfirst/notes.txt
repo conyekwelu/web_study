@@ -56,4 +56,7 @@ document[properties[domain, title, URL]
         methods[getElementById, getElementByTagName, getElementByClassName, createElement]]
 
 p[properties[innerHTML. childElementCount, firstChild]
-  methods[appendChild, insertBefore, setAttribute, getAttribute]]    
+  methods[appendChild, insertBefore, setAttribute, getAttribute]]
+
+  Chapter 5 notes
+  
