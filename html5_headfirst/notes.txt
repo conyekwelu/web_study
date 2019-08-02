@@ -58,5 +58,20 @@ document[properties[domain, title, URL]
 p[properties[innerHTML. childElementCount, firstChild]
   methods[appendChild, insertBefore, setAttribute, getAttribute]]
 
-  Chapter 5 notes
-  
+  Chapter 5 notes (Geolocation API)
+
+
+
+  Chapter 6 notes (Retrieving data from Webservers)
+  //Allows you to build a website without having to bake the data into the page
+  Step 1: provide the url of the resource, store in a variable
+  Step 2: create a request object // var request = new XMLHttpRequest()
+  Step 3: tell request object the url we want to retrieve and method // request.open("GET", url)
+  Step 4: provide handler that is called when data is retrieved
+  e.g. request.onload = function(){ if(request.status) == 200 alert("Data Received");}
+  Step 5: send request to server // request.send(null);
+  //data retrieved is contained in the responseText property of the request object
+  e.g. request.onload = function(){ if(request.status) == 200 alert(request.responseText);}
+
+  use JSON.stringify(json_object) to convert a JSON object to a string
+  use JSON.parse(json_string) to convert a string to a JSON object
