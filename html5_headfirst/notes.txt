@@ -75,3 +75,9 @@ p[properties[innerHTML. childElementCount, firstChild]
 
   use JSON.stringify(json_object) to convert a JSON object to a string
   use JSON.parse(json_string) to convert a string to a JSON object
+
+  Method 2 - JSON with padding (pg277)
+  insert script element with url + callback function name in body element
+  e.g. <script src="http://gumball.wickedlysmart.com/?callback=updateSales"></script>
+
+  setInterval(handler, time_interval in milliseconds)
