@@ -1,0 +1,29 @@
+Atom makes creating a bare bones html doc easy - just type html and hit enter
+(automatically creates html, head, title and body tags)
+
+<!-- Can also use shortcut ctrl /  -->
+
+<> content </> = element
+(a tag and the content it encircles is called an element e.g. h1 element)
+exceptions include <img>
+to add style, add a style element to the head section under title
+elements have attributes e.g. style has attribute "type"
+Information about the Web page goes into the <head> element.
+What you put into the <body> element is what you see in the browser.
+
+HTML - structure
+CSS - presentation
+JS - Interaction
+
+h1 - h6, p are block level element
+strong & em - bold and emphasis/italics
+use lorem ipsum generator for design
+use <div>'s as container for holding a group of stuff - block
+use <span>'s as container for holding a group of stuff - inline
+form tag is just a container for all the inputs
+forms have two important attributes:
+- action (where form sends data to - usually your backend/server)
+- method (GET or POST)
+GET (retrieves Information) vs POST (updates database) request
+other form input attributes: name, placeholder, required, type
+//button at end of form or input type = submit
