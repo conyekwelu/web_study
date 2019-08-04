@@ -14,9 +14,6 @@ elements have attributes e.g. style has attribute "type"
 Information about the Web page goes into the <head> element.
 What you put into the <body> element is what you see in the browser.
 
-
-
-
 HTML - structure
 CSS - presentation
 
