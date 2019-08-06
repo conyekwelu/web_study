@@ -1,0 +1,20 @@
+become an expert in accessing information
+container [margin] vs jumbotron [no margin]
+
+
+forms:
+- form-control
+- from-group
+- from-inline
+
+navbar:
+class = navbar navbar-default
+take the code from bootstrap site and update
+
+grid system:
+- start every row with div class ="row"
+- each row has twelve units
+
+
+
+Assignment: Linkedin profile page look alike
