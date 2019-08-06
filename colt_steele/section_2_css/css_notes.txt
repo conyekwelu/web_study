@@ -17,3 +17,10 @@ other important selectors:
 - adjacent selector e.g. h4 + ul {} /ul next to h4/
 - attribute selector e.g. input[style="text"]
 - nth of type selector e.g. ul:nth-of-type(3) {} / ul:nth-of-type(even) {}
+
+font types
+- visit cssfontstack.com
+- visit fonts.google.com
+
+box model
+- four parts to a box: padding, margin, 

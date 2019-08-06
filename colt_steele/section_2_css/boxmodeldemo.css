@@ -1,0 +1,19 @@
+p {
+
+/* Content */
+
+/* width in pixels */
+/* width: 200px;  */
+/* width in percentage of parent element */
+width: 50%;
+
+/* Border */
+border: 2px solid blue;
+
+/* Padding - space between element and border */
+padding: 10px;
+
+/* Margin - space around border */
+/* margin: 100px; */
+margin: 20px auto;
+}
