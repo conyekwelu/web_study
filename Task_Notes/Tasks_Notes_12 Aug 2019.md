@@ -22,9 +22,9 @@
 
 - [ ] Programming
 
-#### Task to do till 1:00pm - Reading Papers (Pause: 1:40pm)
+#### Task to do till 1:00pm - Reading Papers (Pause: 1:40pm, Resume 4:43 to do till 6:00pm, Completed at 7:44pm)
 
-- [ ] Read Collins, Pincus and Xie (1999)
-- [ ] Read Dickinson (2011)
+- [x] Read Collins, Pincus and Xie (1999)
+- [x] Read Dickinson (2011)
 
-Only got 90% of the way through CPX because I was taking notes using markdown. Will revisit after lunch.
+Only got 90% of the way through CPX because I was taking notes using markdown. Will revisit after lunch. Finished CPX at 5:20pm and took a break. Kept distracting myself on twitter - was also very sleepy so moved to the floor and then to the chair. ended up on the bike but couldn't read and cycle.
