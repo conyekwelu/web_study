@@ -13,7 +13,7 @@ Took longer than planned - finished at 2:20 due to distractions
 ### Launch School Programming (Start 3:50pm - 5:00pm)
 
 - [x] Redo Lesson 3
-- [ ] Redo Lesson 4
+- [x] Redo Lesson 4
 
 
 

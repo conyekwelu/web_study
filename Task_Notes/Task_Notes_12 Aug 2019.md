@@ -12,15 +12,18 @@
 
 
 - [x] Write out notes from Otter for proposal
+
 - [ ] Schedule a conversation with D. Burgsthaler
-- [ ] Look to cancel Adobe
+
+- [x] Look to cancel Adobe
+
 - [ ] Payments: Dad, BOA, Utility
+
 - [ ] Look into the financial assistance in Anuli's hospital bill
+
 - [ ] Finale 500 word justification for fellowship
 
-
-
-- [ ] Programming
+  
 
 #### Task to do till 1:00pm - Reading Papers (Pause: 1:40pm, Resume 4:43 to do till 6:00pm, Completed at 7:44pm)
 
