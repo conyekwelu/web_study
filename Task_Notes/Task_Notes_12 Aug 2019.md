@@ -1,8 +1,8 @@
 # Tasks for Today - 12 Aug 2019
 
-- [ ] Send out Week 11 notes for the Math Boot Camp
-- [ ] Send out Tentative September Schedule
-- [ ] Grade Week 10 submissions for the Math Boot Camp
+- [x] Send out Week 11 notes for the Math Boot Camp
+- [x] Send out Tentative September Schedule
+- [x] Grade Week 10 submissions for the Math Boot Camp
 
 
 
@@ -11,7 +11,7 @@
 
 
 
-- [ ] Write out notes from Otter for proposal
+- [x] Write out notes from Otter for proposal
 - [ ] Schedule a conversation with D. Burgsthaler
 - [ ] Look to cancel Adobe
 - [ ] Payments: Dad, BOA, Utility
