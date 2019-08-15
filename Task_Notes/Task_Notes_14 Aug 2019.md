@@ -8,7 +8,7 @@
 - [ ] Schedule a conversation with A Curtiss
 - [ ] Write down a two - pager on actors and incentives from picture
 
-### Programming
+### Programming (Start 1:47pm - End 2:47pm)
 
 - [ ] Review Lesson 5
 - [ ] Complete Easy 2 - Easy 5
