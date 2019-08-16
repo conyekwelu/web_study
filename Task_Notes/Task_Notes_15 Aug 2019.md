@@ -1,28 +1,29 @@
-# Tasks for Today - 14 Aug 2019
+# Tasks for Today - 15 Aug 2019
+
+### Self Improvement
+
+- [x] chapter 2 of how to stop worrying and start living
 
 ### Research
 
 - [ ] Read Zhang (2000)
 - [ ] Write 500 words on the implication for my research idea and for a research idea
-- [ ] Schedule a conversation with D Burgsthaler
 - [ ] Schedule a conversation with A Curtiss
-- [ ] Write down a two - pager on actors and incentives from picture
+- [ ] Write down a two - pager on actors and incentives from picture (A579)
 
-### Programming (Start 1:47pm - End 2:47pm)
+### Programming
 
-- [x] Review Lesson 5
 - [ ] Complete Easy 2 - Easy 5
 
 ### Business
 
-##### Lach
+##### lach
 
-- [ ] Look at Lach BOA
-- [ ] Download the Lach ADP from inception to date
-- [ ] follow up on outstanding documents
 - [ ] Complete bank statement analysis
+- [ ] Download the Lach ADP from inception to date
+- [ ] Prepare TB & management accounts
 
-##### Eruken
+##### eruken
 
 - [ ] Combine bank statement into one spreadsheet
 - [ ] Format spreadsheet for analysis
@@ -44,3 +45,4 @@
 - [ ] Payments: Dad, BOA, Utility
 - [ ] Look into the financial assistance in Anuli's hospital bill
 - [ ] Finale 500 word justification for fellowship
+- [ ] letter to dean anjani

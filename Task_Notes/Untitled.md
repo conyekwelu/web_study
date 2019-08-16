@@ -1,0 +1,6 @@
+“It is only the attempt to write down your ideas that enables them to develop.” –Wittgenstein (pg 109, [*Recollections of Wittgenstein*](http://www.amazon.com/Recollections-Wittgenstein-Hermine/dp/0192876287/?tag=gwernnet-20)); “I thought a little [while in the isolation tank], and then I stopped thinking altogether…incredible how idleness of body leads to idleness of mind. After 2 days, I’d turned into an idiot. That’s the reason why, during a flight, astronauts are always kept busy.” –Oriana Fallaci, [quoted](http://www.johndcook.com/blog/2010/12/11/after-two-days-id-turned-into-an-idiot/)in [*Rocket Men: The Epic Story of the First Men on the Moon*](http://www.amazon.com/Rocket-Men-Epic-Story-First/dp/B002VPE85K/?tag=gwernnet-20) by Craig Nelson.
+
+
+
+I had, also, during many years followed a golden rule, namely, that whenever a published fact, a new observation or thought came across me, which was opposed to my general results, to make a memorandum of it without fail and at once; for I had found by experience that such facts and thoughts were far more apt to escape from the memory than favourable ones. Owing to this habit, very few objections were raised against my views which I had not at least noticed and attempted to answer.
+
