@@ -7,7 +7,7 @@
 
 ### Research
 
-- [ ] Read Zhang (2000)
+- [x] Read Zhang (2000)
 - [ ] Write 500 words on the implication for my research idea and for a research idea
 - [ ] Schedule a conversation with A Curtiss
 - [ ] Write down a two - pager on actors and incentives from picture (A579)
@@ -33,7 +33,7 @@
 
 ##### easyfinance360
 
-- [ ] Complete and return documentation for EIN
+- [x] Complete and return documentation for EIN
 
 ##### chocolate city
 
@@ -44,6 +44,6 @@
 ##### Finances
 
 - [ ] Payments: Dad, BOA, Utility
-- [ ] Look into the financial assistance in Anuli's hospital bill
+- [x] Look into the financial assistance in Anuli's hospital bill
 - [ ] Finale 500 word justification for fellowship
 - [ ] letter to dean anjani

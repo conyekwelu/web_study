@@ -6,7 +6,7 @@
 
 
 
-- [ ] Read Zhang (2000)
+- [x] Read Zhang (2000)
 - [ ] Write 500 words on the implication for my research idea and for a research idea
 
 

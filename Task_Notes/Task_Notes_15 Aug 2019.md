@@ -32,7 +32,7 @@
 
 ##### easyfinance360
 
-- [ ] Complete and return documentation for EIN
+- [x] Complete and return documentation for EIN
 
 ##### chocolate city
 
@@ -43,6 +43,6 @@
 ##### Finances
 
 - [ ] Payments: Dad, BOA, Utility
-- [ ] Look into the financial assistance in Anuli's hospital bill
+- [x] Look into the financial assistance in Anuli's hospital bill
 - [ ] Finale 500 word justification for fellowship
 - [ ] letter to dean anjani
