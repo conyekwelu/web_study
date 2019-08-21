@@ -26,10 +26,12 @@
 
 ### programming
 
-- [ ] three ruby exercises
-- [ ] finish tic tac toe
+- [x] three ruby exercises
+- [ ] **finish tic tac toe**
 
 
+
+grade hw - 30mins, spent 4 hours coding yesterday - 30 mins on reading the Hayn paper - spoke with churchill and did nothing else
 
 
 
