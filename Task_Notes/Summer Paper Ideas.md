@@ -2,6 +2,8 @@
 
 I have two ideas for my summer paper. 
 
+**Theoretical Model**
+
 The first idea involves looking at why prizes jump. It involves looking critically at the Burgsthaler-Dichev (1997) model and any subsequent models, and then to try and expand it. The basic idea is that investors always juggle their beliefs between thinking a company is valued at its adaptation value, or its recursion value. Hence, if the economy is good, for some reasons, Investors are more likely to believe that the recursion value is the true value while if bad investors are more likely to believe that the adaptation value is a true value. And for smoothness, I can put some kind of weighting in between them, which is some probability that investors believe that the true value is the adaptation value recursion value. So:
 
 
